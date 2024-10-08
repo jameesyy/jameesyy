@@ -7,6 +7,10 @@ Rather than a programmer, I am a creative—a writer and storyteller. I gather s
 
 Programming is only an intellectual byway to create beyond myself. Above being a software engineer, I am a writer. It just happens that I write code.
 
+### Projects
+- [`slant`](https://github.com/jameesyy/slant): hacked client for Minecraft 
+- [`madpinger`](https://github.com/jameesyy/madpinger): Course aggregator for UW-Madison
+
 ### 💬 Languages
 - Rust
 - JS/TS + React

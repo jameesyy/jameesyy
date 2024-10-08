@@ -9,7 +9,7 @@ Programming is only an intellectual byway to create beyond myself. Above being a
 
 ### Projects
 - [`slant`](https://github.com/jameesyy/slant) — Hacked client for Minecraft 
-- [`madpinger`](https://github.com/jameesyy/madpinger) —Course aggregator for UW-Madison
+- [`madpinger`](https://github.com/jameesyy/madpinger) — Course aggregator for UW-Madison
 
 ### 💬 Languages
 - Rust
